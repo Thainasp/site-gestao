@@ -35,7 +35,6 @@ O projeto foi desenvolvido para a disciplina de **Gestão de Projetos de Softwar
 
 - HTML5
 - CSS3
-- JavaScript
 
 ---
 
