@@ -34,20 +34,6 @@ O projeto foi desenvolvido para a disciplina de **Gestão de Projetos de Softwar
 ## Tecnologias Utilizadas
 
 - HTML5
-- CSS3
 
 ---
-
-## Estrutura do Projeto
-
-```text
-projeto-ifsp/
-│
-├── index.html
-├── css/
-│   └── style.css
-├── js/
-│   └── script.js
-└── README.md
-```
 
